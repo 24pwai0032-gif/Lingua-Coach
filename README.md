@@ -9,7 +9,7 @@
 
 <!-- Badges with Animation -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft-Imagine_Cup_2024-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1e1e1e" alt="Imagine Cup"/>
+  <img src="https://img.shields.io/badge/Microsoft-Imagine_Cup_2026-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1e1e1e" alt="Imagine Cup"/>
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1e1e1e" alt="React"/>
   <img src="https://img.shields.io/badge/AI-Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white&labelColor=1e1e1e" alt="AI"/>
   <img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge&labelColor=1e1e1e" alt="License"/>
