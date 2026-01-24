@@ -5,9 +5,12 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00A4EF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=The+World's+First+AI-Powered+Language+Coach;With+Persistent+Learner+Memory+%F0%9F%A7%A0;Diagnostic+Science+%7C+Not+Generic+Practice" alt="Typing SVG" />
+  
 </p>
 
 <!-- Badges with Animation -->
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft-Imagine_Cup_2026-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1e1e1e" alt="Imagine Cup"/>
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1e1e1e" alt="React"/>
