@@ -1065,281 +1065,159 @@ network effect
 
 ## 👨‍💻 Meet the Creator
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meet the Creators</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+# 👨‍💻 Meet the Creators
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            padding: 20px;
-        }
+<div align="center">
 
-        .container {
-            max-width: 1200px;
-            width: 100%;
-        }
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Meet%20the%20Creators&fontSize=60&fontColor=fff&animation=fadeIn" />
 
-        .header {
-            text-align: center;
-            margin-bottom: 60px;
-            animation: fadeInDown 1s ease-out;
-        }
+<br/>
 
-        .header h1 {
-            font-size: 3.5rem;
-            color: white;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
-            margin-bottom: 20px;
-            background: linear-gradient(45deg, #fff, #e0e0e0);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+the+Future+of+Education;AI-Powered+Language+Learning+Revolution" alt="Typing SVG" />
 
-        .subtitle {
-            font-size: 1.5rem;
-            color: rgba(255,255,255,0.9);
-            margin-bottom: 30px;
-            animation: typing 3s steps(40) 1s both;
-            overflow: hidden;
-            white-space: nowrap;
-            border-right: 3px solid white;
-            display: inline-block;
-        }
+</div>
 
-        @keyframes typing {
-            from { width: 0; }
-            to { width: 100%; }
-        }
+<br/>
 
-        .creators-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
-            gap: 40px;
-            margin-top: 40px;
-        }
+## 🌟 Our Team
 
-        .creator-card {
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-            border-radius: 20px;
-            padding: 40px;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-            transition: all 0.3s ease;
-            animation: fadeInUp 1s ease-out;
-        }
+<table>
+<tr>
+<td align="center" width="50%">
 
-        .creator-card:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 12px 48px rgba(0, 0, 0, 0.2);
-            background: rgba(255, 255, 255, 0.15);
-        }
+### 👨‍💻 Syed Hassan Tayyab
 
-        .creator-header {
-            text-align: center;
-            margin-bottom: 30px;
-        }
+<img src="https://github.com/user-attachments/assets/your-image-here" width="150" height="150" style="border-radius: 50%;" alt="Syed Hassan Tayyab"/>
 
-        .avatar {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            background: linear-gradient(135deg, #667eea, #764ba2);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin: 0 auto 20px;
-            font-size: 4rem;
-            color: white;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-            animation: pulse 2s infinite;
-        }
+**AI Engineer | EdTech Innovator**
 
-        @keyframes pulse {
-            0%, 100% { transform: scale(1); }
-            50% { transform: scale(1.05); }
-        }
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-        .creator-name {
-            font-size: 2rem;
-            color: white;
-            margin-bottom: 10px;
-            font-weight: bold;
-        }
+```
+🎯 Focus Areas
+├─ AI Engineering
+├─ Language Learning Innovation
+├─ EdTech Solutions
+└─ Microsoft Imagine Cup 2026
+```
 
-        .role-tags {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            justify-content: center;
-            margin-top: 20px;
-        }
+<img src="https://img.shields.io/badge/Role-AI%20Engineer-667eea?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-EdTech-764ba2?style=for-the-badge" />
 
-        .tag {
-            background: rgba(255, 255, 255, 0.2);
-            color: white;
-            padding: 8px 16px;
-            border-radius: 20px;
-            font-size: 0.9rem;
-            border: 1px solid rgba(255, 255, 255, 0.3);
-            animation: slideIn 0.5s ease-out;
-            animation-fill-mode: both;
-        }
+</td>
 
-        .tag:nth-child(1) { animation-delay: 0.1s; }
-        .tag:nth-child(2) { animation-delay: 0.2s; }
-        .tag:nth-child(3) { animation-delay: 0.3s; }
-        .tag:nth-child(4) { animation-delay: 0.4s; }
+<td align="center" width="50%">
 
-        .highlight-text {
-            text-align: center;
-            color: white;
-            font-size: 1.2rem;
-            margin-top: 20px;
-            padding: 15px;
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 10px;
-            border-left: 4px solid #00A4EF;
-        }
+### 🚀 Hamid Khan
 
-        .badge {
-            display: inline-block;
-            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-            color: white;
-            padding: 10px 20px;
-            border-radius: 25px;
-            font-weight: bold;
-            margin-top: 20px;
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-            animation: bounce 2s infinite;
-        }
+<img src="https://github.com/user-attachments/assets/your-image-here" width="150" height="150" style="border-radius: 50%;" alt="Hamid Khan"/>
 
-        @keyframes bounce {
-            0%, 100% { transform: translateY(0); }
-            50% { transform: translateY(-10px); }
-        }
+**AI Engineer | EdTech Innovator**
 
-        @keyframes fadeInDown {
-            from {
-                opacity: 0;
-                transform: translateY(-30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+```
+🎯 Focus Areas
+├─ AI Engineering
+├─ Language Learning Innovation
+├─ EdTech Solutions
+└─ Microsoft Imagine Cup 2026
+```
 
-        @keyframes slideIn {
-            from {
-                opacity: 0;
-                transform: translateX(-20px);
-            }
-            to {
-                opacity: 1;
-                transform: translateX(0);
-            }
-        }
+<img src="https://img.shields.io/badge/Role-AI%20Engineer-667eea?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-EdTech-764ba2?style=for-the-badge" />
 
-        .footer {
-            text-align: center;
-            margin-top: 60px;
-            color: white;
-            font-size: 1.1rem;
-            animation: fadeInUp 1.5s ease-out;
-        }
+</td>
+</tr>
+</table>
 
-        @media (max-width: 768px) {
-            .creators-grid {
-                grid-template-columns: 1fr;
-            }
-            
-            .header h1 {
-                font-size: 2.5rem;
-            }
-            
-            .subtitle {
-                font-size: 1.2rem;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="header">
-            <h1>👨‍💻 Meet the Creators</h1>
-            <div class="subtitle">Building the Future of Education</div>
-        </div>
+<br/>
 
-        <div class="creators-grid">
-            <div class="creator-card">
-                <div class="creator-header">
-                    <div class="avatar">👨‍💻</div>
-                    <h2 class="creator-name">Syed Hassan Tayyab</h2>
-                </div>
-                <div class="role-tags">
-                    <span class="tag">AI Engineer</span>
-                    <span class="tag">EdTech Innovator</span>
-                    <span class="tag">Language Learning Revolutionary</span>
-                    <span class="tag">Microsoft Imagine Cup 2026</span>
-                </div>
-                <div class="highlight-text">
-                    Pioneering AI-powered solutions to transform the educational landscape
-                </div>
-            </div>
+---
 
-            <div class="creator-card">
-                <div class="creator-header">
-                    <div class="avatar">🚀</div>
-                    <h2 class="creator-name">Hamid Khan</h2>
-                </div>
-                <div class="role-tags">
-                    <span class="tag">AI Engineer</span>
-                    <span class="tag">EdTech Innovator</span>
-                    <span class="tag">Language Learning Revolutionary</span>
-                    <span class="tag">Microsoft Imagine Cup 2026</span>
-                </div>
-                <div class="highlight-text">
-                    Driving innovation in education through cutting-edge AI technology
-                </div>
-            </div>
-        </div>
+<div align="center">
 
-        <div class="footer">
-            <div class="badge">🏆 Microsoft Imagine Cup 2026 Participants</div>
-            <p style="margin-top: 30px; font-size: 1.3rem;">
-                Together, revolutionizing how the world learns languages
-            </p>
-        </div>
-    </div>
-</body>
-</html>
+## 🏆 Our Mission
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A4EF&center=true&vCenter=true&width=700&lines=Revolutionizing+Language+Learning+with+AI;Making+Education+Accessible+to+Everyone;Competing+in+Microsoft+Imagine+Cup+2026" alt="Mission" />
+
+<br/>
+
+### 💡 What We're Building
+
+We are passionate AI engineers dedicated to transforming the educational landscape through innovative AI-powered solutions. Our focus is on creating revolutionary language learning experiences that make education accessible, engaging, and effective for learners worldwide.
+
+<br/>
+
+<img src="https://img.shields.io/badge/🏆-Microsoft%20Imagine%20Cup%202026-gold?style=for-the-badge&labelColor=667eea" />
+<img src="https://img.shields.io/badge/🌍-Global%20Impact-success?style=for-the-badge&labelColor=764ba2" />
+<img src="https://img.shields.io/badge/🤖-AI%20Powered-blue?style=for-the-badge&labelColor=667eea" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🛠️ Our Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### Syed Hassan Tayyab
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=667eea&title_color=fff&icon_color=fff&text_color=fff" />
+
+</td>
+<td width="50%" align="center">
+
+### Hamid Khan
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=764ba2&title_color=fff&icon_color=fff&text_color=fff" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect!
+
+We're always open to collaboration, feedback, and connecting with fellow innovators!
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+</div>
 
 <br/>
 
