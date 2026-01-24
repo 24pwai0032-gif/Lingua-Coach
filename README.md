@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LinguaCoach&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00A4EF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=The+World's+First+AI-Powered+Language+Coach;With+Persistent+Learner+Memory+%F0%9F%A7%A0;Diagnostic+Science+%7C+Not+Generic+Practice" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00A4EF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=The+World's+First+AI-Powered+Language+Coach;With+Persistent+Learner+Memory+%F0%9F%A7%A0;" />
   
 </p>
 
