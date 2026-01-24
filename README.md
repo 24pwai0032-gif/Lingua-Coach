@@ -30,21 +30,24 @@
   <a href="#-live-demo"><kbd>🎬 Demo</kbd></a> •
   <a href="#-quick-start"><kbd>⚡ Start</kbd></a> •
   <a href="#-roadmap"><kbd>🗺️ Roadmap</kbd></a> •
-  <a href="#-developer"><kbd>👨‍💻 Creator</kbd></a>
+  <a href="#-meet-the-creator"><kbd>👨‍💻 Creator</kbd></a>
 </p>
 
 <br/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
+<br/>
+
 ## 🌟 The Revolution
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ### ❌ The Problem
 
@@ -63,7 +66,7 @@
 **Students waste MONTHS on irrelevant practice.**
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 ### ✅ Our Solution
 
@@ -85,7 +88,7 @@
 </tr>
 </table>
 
-<div align="center">
+<br/>
 
 ### 💬 What Users Say
 
@@ -98,6 +101,8 @@
 
 </div>
 
+<br/>
+
 ## 🧠 Core Innovation
 
 <div align="center">
@@ -106,21 +111,23 @@
 
 *The game-changer that destroys the competition*
 
-</div>
-
 <br/>
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 📝 **TRACKS**
+### 📝 TRACKS
 
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+<br/>
 
 Every grammar error  
 Every filler word  
 Every speaking habit  
+
+<br/>
 
 **With severity scores (1-5)**  
 **With real examples**
@@ -128,13 +135,17 @@ Every speaking habit
 </td>
 <td width="33%" align="center">
 
-### 🎯 **PRESCRIBES**
+### 🎯 PRESCRIBES
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+<br/>
 
 AI analyzes patterns  
 Finds biggest gaps  
 Tells you exactly what to drill  
+
+<br/>
 
 **No guessing**  
 **No random practice**
@@ -142,13 +153,17 @@ Tells you exactly what to drill
 </td>
 <td width="33%" align="center">
 
-### 📈 **EVOLVES**
+### 📈 EVOLVES
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+<br/>
 
 Gets smarter over time  
 Learns your patterns  
 Adapts coaching style  
+
+<br/>
 
 **Truly personalized**  
 **Actually intelligent**
@@ -157,17 +172,19 @@ Adapts coaching style
 </tr>
 </table>
 
-<div align="center">
+<br/>
 
 ### 🏆 Result
 
 <img src="https://img.shields.io/badge/30%25-Faster_Improvement-00D9FF?style=for-the-badge&logo=trending-up&logoColor=white&labelColor=1e1e1e" />
 
-</div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<br/>
 
 ## ✨ Key Features
 
@@ -175,28 +192,30 @@ Adapts coaching style
 
 ### 🎨 **Complete AI Coaching Suite**
 
-</div>
-
 <br/>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 #### 📝 **Writing Analysis Engine**
 
-- ✅ Article detection (a/an/the)
-- ✅ Tense consistency checks
-- ✅ Repetition & vocabulary analysis
-- ✅ Structure coherence scoring
-- ✅ IELTS Band 0-9 rubric
-- ✅ AI-suggested rewrites
-- ✅ Focused grammar drills
+<br/>
+
+✅ Article detection (a/an/the)  
+✅ Tense consistency checks  
+✅ Repetition & vocabulary analysis  
+✅ Structure coherence scoring  
+✅ IELTS Band 0-9 rubric  
+✅ AI-suggested rewrites  
+✅ Focused grammar drills
 
 <br/>
 
 <details>
 <summary><b>📊 See Sample Output</b></summary>
+
+<br/>
 
 ```
 Band Score: 6.5/9
@@ -211,22 +230,26 @@ Suggested Drill: Article Practice (a/an/the)
 </details>
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 #### 🎤 **Speaking Analysis Engine**
 
-- 🎙️ WPM fluency tracking
-- 🎙️ Filler word detection (um, uh, like)
-- 🎙️ Structure & organization scoring
-- 🎙️ Vocabulary sophistication
-- 🎙️ Grammar accuracy checks
-- 🎙️ Real-time feedback
-- 🎙️ Pronunciation coaching
+<br/>
+
+🎙️ WPM fluency tracking  
+🎙️ Filler word detection (um, uh, like)  
+🎙️ Structure & organization scoring  
+🎙️ Vocabulary sophistication  
+🎙️ Grammar accuracy checks  
+🎙️ Real-time feedback  
+🎙️ Pronunciation coaching
 
 <br/>
 
 <details>
 <summary><b>📊 See Sample Output</b></summary>
+
+<br/>
 
 ```
 Fluency: 145 WPM (Target: 150-160)
@@ -247,26 +270,30 @@ Next Action: Reduce filler words by 50%
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 #### 📹 **Delivery Tracking**
 
-- 👁️ Eye contact monitoring
-- 💪 Body motion analysis
-- 😊 Confidence scoring
-- 🎭 Professional presence
-- 📊 Video-based feedback
+<br/>
+
+👁️ Eye contact monitoring  
+💪 Body motion analysis  
+😊 Confidence scoring  
+🎭 Professional presence  
+📊 Video-based feedback
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 #### 🎯 **Next Best Action AI**
 
-- 🔍 Diagnoses top 3 issues
-- 💊 Prescribes focused drills
-- 📈 Tracks improvement
-- 🧭 Guides learning path
-- ⚡ Zero guesswork
+<br/>
+
+🔍 Diagnoses top 3 issues  
+💊 Prescribes focused drills  
+📈 Tracks improvement  
+🧭 Guides learning path  
+⚡ Zero guesswork
 
 </td>
 </tr>
@@ -276,26 +303,30 @@ Next Action: Reduce filler words by 50%
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 #### 📚 **Smart Learning Center**
 
-- 🤖 AI-generated lessons
-- 📝 From YOUR mistakes
-- 🎯 Personalized drills
-- 📖 Grammar deep-dives
-- 💡 Vocabulary builders
+<br/>
+
+🤖 AI-generated lessons  
+📝 From YOUR mistakes  
+🎯 Personalized drills  
+📖 Grammar deep-dives  
+💡 Vocabulary builders
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 #### 📊 **Advanced Analytics**
 
-- 📈 Performance trends
-- 🗂️ Attempt history
-- 📄 PDF/CSV exports
-- 🔍 Pattern identification
-- 📉 Weakness tracking
+<br/>
+
+📈 Performance trends  
+🗂️ Attempt history  
+📄 PDF/CSV exports  
+🔍 Pattern identification  
+📉 Weakness tracking
 
 </td>
 </tr>
@@ -303,9 +334,11 @@ Next Action: Reduce filler words by 50%
 
 <br/>
 
-<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
+
+<br/>
 
 ## 🏆 Competitive Domination
 
@@ -316,7 +349,7 @@ Next Action: Reduce filler words by 50%
 <br/>
 
 | Feature | <img src="https://img.shields.io/badge/LinguaCoach-00A4EF?style=flat-square&logo=rocket" /> | Duolingo | IELTS Apps | Cambridge |
-|---------|:---:|:---:|:---:|:---:|
+|:-------:|:---:|:---:|:---:|:---:|
 | **🧠 Persistent Memory** | ✅ **YES** | ❌ No | ⚠️ Weak | ⚠️ Weak |
 | **🎯 Next Best Action** | ✅ **YES** | ❌ No | ❌ No | ⚠️ Weak |
 | **📹 Delivery Tracking** | ✅ **YES** | ❌ No | ❌ No | ❌ No |
@@ -331,19 +364,19 @@ Next Action: Reduce filler words by 50%
 
 <img src="https://img.shields.io/badge/ONLY_Platform_Treating_Coaching_as_Diagnostic_Science-FF6B6B?style=for-the-badge&labelColor=1e1e1e" />
 
-</div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<br/>
 
 ## 🎬 Live Demo
 
 <div align="center">
 
 ### **See LinguaCoach in Action** 🚀
-
-</div>
 
 <br/>
 
@@ -375,6 +408,8 @@ graph LR
 🎯  
 **Set Goal**
 
+<br/>
+
 IELTS Band 7+
 
 </td>
@@ -383,6 +418,8 @@ IELTS Band 7+
 **2️⃣**  
 📝  
 **Submit**
+
+<br/>
 
 Paste writing sample
 
@@ -393,6 +430,8 @@ Paste writing sample
 🤖  
 **Analyze**
 
+<br/>
+
 Instant AI feedback
 
 </td>
@@ -402,6 +441,8 @@ Instant AI feedback
 📊  
 **Track**
 
+<br/>
+
 View analytics
 
 </td>
@@ -410,6 +451,8 @@ View analytics
 **5️⃣**  
 📄  
 **Export**
+
+<br/>
 
 Download report
 
@@ -421,15 +464,19 @@ Download report
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+</div>
+
+<br/>
+
 ## ⚡ Quick Start
 
 <div align="center">
 
 ### **Get Running in 60 Seconds** ⏱️
 
-</div>
-
 <br/>
+
+</div>
 
 ### 🚀 Installation
 
@@ -455,9 +502,9 @@ npm run dev
 
 <img src="https://img.shields.io/badge/⚡_Ready_in-60_Seconds-00E676?style=for-the-badge&labelColor=1e1e1e" />
 
-</div>
-
 <br/>
+
+</div>
 
 ### 📦 Production Build
 
@@ -466,15 +513,23 @@ npm run build
 npm run preview
 ```
 
+<div align="center">
+
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<br/>
 
 ## 🏗️ Architecture
 
 <div align="center">
 
 ### **🎨 Current Stack (MVP)**
+
+<br/>
 
 </div>
 
@@ -496,11 +551,13 @@ npm run preview
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-<br/>
-
 <div align="center">
 
+<br/>
+
 ### **🚀 Future Architecture (Q1 2025)**
+
+<br/>
 
 </div>
 
@@ -526,9 +583,15 @@ npm run preview
     ┗━━━━━━━━━┛ ┗━━━━━━━━┛ ┗━━━━━━━━━┛
 ```
 
+<div align="center">
+
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<br/>
 
 ## 💼 Use Cases & Pricing
 
@@ -536,15 +599,14 @@ npm run preview
 
 ### **🎯 Four Explosive Markets**
 
-</div>
-
 <br/>
 
 <table>
 <tr>
-<td width="25%">
+<td width="25%" align="center">
 
 ### 👤 **B2C**
+
 #### Individual Learners
 
 <br/>
@@ -552,8 +614,12 @@ npm run preview
 🎯 **Target:**  
 IELTS Band 7+ in 8 weeks
 
+<br/>
+
 📊 **Market:**  
 1.5B English learners
+
+<br/>
 
 💰 **Pricing:**
 - Free: Basic
@@ -561,13 +627,446 @@ IELTS Band 7+ in 8 weeks
 - $24.99: Premium
 
 </td>
-<td width="25%">
+<td width="25%" align="center">
 
-### 👨‍💻 Developer
+### 👨‍🏫 **Teachers**
+
+#### English Coaches
+
+<br/>
+
+📈 **Scale:**  
+Track 25+ students
+
+<br/>
+
+🎯 **Features:**  
+Class analytics & reports
+
+<br/>
+
+💰 **Pricing:**
+- $500/mo: Small
+- $1,000/mo: Medium
+- $2,000/mo: Large
+
+</td>
+<td width="25%" align="center">
+
+### 🏫 **Institutes**
+
+#### Test Prep Centers
+
+<br/>
+
+🚀 **Growth:**  
+5 → 50+ locations
+
+<br/>
+
+⚡ **Impact:**  
+60% cost reduction
+
+<br/>
+
+💰 **Pricing:**
+- $5,000/mo: Starter
+- $20,000/mo: Scale
+- $50,000/mo: Enterprise
+
+</td>
+<td width="25%" align="center">
+
+### 🎓 **Universities**
+
+#### Higher Education
+
+<br/>
+
+🌍 **Impact:**  
+ESL placement scores
+
+<br/>
+
+📉 **Savings:**  
+Remediation costs
+
+<br/>
+
+💰 **Pricing:**
+- $25,000/mo: Small
+- $50,000/mo: Medium
+- $100,000/mo+: Large
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💰 Total Addressable Market
+
+<img src="https://img.shields.io/badge/Global_Language_Learning-$60_Billion-FFB800?style=for-the-badge&logo=chart-line&logoColor=white&labelColor=1e1e1e" />
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<br/>
+
+## 🗺️ Roadmap
 
 <div align="center">
 
-<!-- Animated Profile Header -->
+### **📅 From MVP to Global Domination**
+
+<br/>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### Q4 2024 ✅
+
+**MVP SHIPPED**
+
+<br/>
+
+<img src="https://img.icons8.com/color/96/000000/rocket.png" width="60"/>
+
+<br/><br/>
+
+✅ Writing analyzer  
+✅ Speaking analyzer  
+✅ Delivery tracking  
+✅ Learning Center  
+✅ Analytics dashboard  
+✅ B2B design  
+✅ PDF exports  
+
+</td>
+<td width="25%" align="center">
+
+### Q1 2025 🚧
+
+**Backend Power**
+
+<br/>
+
+<img src="https://img.icons8.com/color/96/000000/server.png" width="60"/>
+
+<br/><br/>
+
+🔄 Azure deployment  
+🔄 Institution mgmt  
+🔄 Teacher dashboards  
+🔄 Bulk import  
+🔄 OAuth2 + JWT  
+🔄 GDPR/FERPA  
+🔄 Real-time sync  
+
+</td>
+<td width="25%" align="center">
+
+### Q2 2025 🎯
+
+**AI Superpowers**
+
+<br/>
+
+<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
+
+<br/><br/>
+
+🎯 Azure OpenAI  
+🎯 Speech recognition  
+🎯 Accent detection  
+🎯 Real-time feedback  
+🎯 LMS integration  
+🎯 Mobile app (Beta)  
+🎯 API marketplace  
+
+</td>
+<td width="25%" align="center">
+
+### Q3 2025 🌍
+
+**Global Scale**
+
+<br/>
+
+<img src="https://img.icons8.com/color/96/000000/globe.png" width="60"/>
+
+<br/><br/>
+
+🌍 5+ languages  
+🌍 White-label  
+🌍 iOS/Android  
+🌍 Spanish, Mandarin  
+🌍 Certifications  
+🌍 Enterprise SSO  
+🌍 International HQ  
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### **⚡ Built with Cutting-Edge Technology**
+
+<br/>
+
+| Layer | Technologies |
+|:-----:|:------------|
+| **Frontend** | ![React](https://img.shields.io/badge/-React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Storage** | ![LocalStorage](https://img.shields.io/badge/-LocalStorage-FF9900?style=flat-square&logo=html5&logoColor=white) → ![Azure Cosmos DB](https://img.shields.io/badge/-Cosmos_DB-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) |
+| **AI/ML** | ![Custom](https://img.shields.io/badge/-Heuristic_Engines-FF6B6B?style=flat-square&logo=brain&logoColor=white) → ![Azure OpenAI](https://img.shields.io/badge/-Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
+| **Cloud** | ![Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| **Analytics** | ![PDF](https://img.shields.io/badge/-PDF_Export-FF0000?style=flat-square&logo=adobe-acrobat-reader&logoColor=white) ![CSV](https://img.shields.io/badge/-CSV_Export-00C853?style=flat-square&logo=microsoft-excel&logoColor=white) |
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<br/>
+
+## 🎤 Elevator Pitch
+
+<div align="center">
+
+### **💬 The 90-Second Revolution**
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+
+<br/>
+
+> **"Language coaching apps fail because they reset context every session. LinguaCoach is different—we maintain learner memory.**
+>
+> <br/>
+>
+> Here's the insight: When a student repeats a grammar mistake or filler word, an AI coach should recognize the pattern and drill it. But generic apps don't remember.
+>
+> <br/>
+>
+> **We track grammar issues, speaking habits, and delivery feedback across all attempts.** Every data point feeds a learner memory system that prescribes exactly what to drill next.
+>
+> <br/>
+>
+> **Result?**
+> - 🚀 Students improve 30% faster
+> - 💰 Schools save 60% on tutoring
+> - 👨‍🏫 Teachers finally have diagnostic tools
+>
+> <br/>
+>
+> We're launching in **5 languages by Q2 2025**.
+>
+> <br/>
+>
+> **Pricing:**
+> - B2C: $9.99/month
+> - B2B: $5K-50K/month minimum
+>
+> <br/>
+>
+> **We're LinguaCoach—where language coaching meets science."**
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<br/>
+
+## 📚 Documentation
+
+<div align="center">
+
+### **📖 Complete Knowledge Base**
+
+<br/>
+
+| Document | Description | Link |
+|:--------:|:------------|:----:|
+| **🎨 FEATURES.md** | Complete feature walkthrough with screenshots | [Read →](./FEATURES.md) |
+| **⚡ QUICKSTART.md** | Step-by-step user guide for learners | [Read →](./QUICKSTART.md) |
+| **🏢 ENTERPRISE.md** | B2B product strategy, pricing, pitch deck | [Read →](./ENTERPRISE.md) |
+| **🔌 API.md** | Full API specification for integrations | [Read →](./API.md) |
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<br/>
+
+## 🔐 Data & Privacy
+
+<div align="center">
+
+### **🛡️ Your Data. Your Control.**
+
+<br/>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+**💾 Storage**
+
+<br/>
+
+LocalStorage (MVP)  
+→  
+Azure Cosmos DB  
+(Production)
+
+</td>
+<td width="25%" align="center">
+
+**🔒 Security**
+
+<br/>
+
+TLS 1.3  
+AES-256  
+End-to-end  
+encryption
+
+</td>
+<td width="25%" align="center">
+
+**✅ Compliance**
+
+<br/>
+
+GDPR  
+FERPA  
+COPPA  
+SOC 2 Type II
+
+</td>
+<td width="25%" align="center">
+
+**📤 Ownership**
+
+<br/>
+
+Your data  
+Your rights  
+Export anytime  
+Delete anytime
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<br/>
+
+## 🏅 Microsoft Imagine Cup 2026
+
+<div align="center">
+
+<img src="https://img.icons8.com/color/96/000000/microsoft.png" width="80"/>
+
+<br/>
+
+### **Category: AI for Good**
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🎯 Innovation**
+
+<br/>
+
+Persistent learner memory  
+as AI coaching foundation
+
+</td>
+<td width="33%" align="center">
+
+**📊 Impact**
+
+<br/>
+
+30% faster improvement  
+60% lower costs
+
+</td>
+<td width="33%" align="center">
+
+**🚀 Scale**
+
+<br/>
+
+B2C → B2B2C  
+network effect
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 📈 Competition Metrics
+
+| Metric | Value |
+|:------:|:------|
+| **🌍 Target Market** | $60B global language learning |
+| **👥 Addressable Users** | 1.5B English learners worldwide |
+| **🎯 Early Adopters** | 3M IELTS test-takers annually |
+| **🏢 Enterprise Pipeline** | 50+ schools in beta waitlist |
+| **💰 Revenue Model** | Freemium + B2B licensing |
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<br/>
+
+## 👨‍💻 Meet the Creator
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=150&section=header&text=Syed%20Hassan%20Tayyab&fontSize=50&fontColor=fff&animation=fadeIn" />
 
 <br/><br/>
@@ -580,8 +1079,7 @@ IELTS Band 7+ in 8 weeks
 
 <br/>
 
-<!-- Social Links with Glow Effect -->
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/syedhassantayyab/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_&_Collaborate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
   </a>
@@ -609,6 +1107,8 @@ IELTS Band 7+ in 8 weeks
 
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
 
+<br/>
+
 **Natural Language Processing**
 
 <br/>
@@ -623,6 +1123,8 @@ IELTS Band 7+ in 8 weeks
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
 
+<br/>
+
 **EdTech Innovation**
 
 <br/>
@@ -636,6 +1138,8 @@ IELTS Band 7+ in 8 weeks
 <td width="33%" align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+
+<br/>
 
 **Full-Stack Development**
 
@@ -658,9 +1162,10 @@ IELTS Band 7+ in 8 weeks
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 #### 🎓 LinguaCoach
+
 **AI Language Coaching Platform**
 
 <br/>
@@ -671,7 +1176,7 @@ IELTS Band 7+ in 8 weeks
 
 <br/>
 
-🏅 Microsoft Imagine Cup 2024  
+🏅 Microsoft Imagine Cup 2026  
 ⚡ 30% faster improvement  
 💰 60% cost reduction  
 
@@ -680,9 +1185,10 @@ IELTS Band 7+ in 8 weeks
 [![View](https://img.shields.io/badge/View_Project-00A4EF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24pwai0032-gif/linguacoach)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 #### 🍎 AgriVision
+
 **AI Fruit Classification System**
 
 <br/>
@@ -724,21 +1230,25 @@ IELTS Band 7+ in 8 weeks
 
 **Languages & Frameworks:**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+</p>
 
 <br/>
 
 **Cloud & Tools:**
 
-![Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS_Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
 <br/>
 
@@ -772,7 +1282,7 @@ IELTS Band 7+ in 8 weeks
 
 </div>
 
----
+<br/>
 
 ## 🤝 Contributing
 
@@ -786,11 +1296,13 @@ IELTS Band 7+ in 8 weeks
 <img src="https://img.shields.io/badge/PRs-Open-00D9FF?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/Issues-Tracked-FFB800?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 
-</div>
-
 <br/>
 
+</div>
+
 ### 🎯 **Contribution Guidelines**
+
+<div align="center">
 
 **For Microsoft Imagine Cup Phase:**
 - ✅ **Focus:** Clean, demo-friendly code
@@ -798,6 +1310,8 @@ IELTS Band 7+ in 8 weeks
 - ✅ **Scope:** MVP-only features (no half-baked enterprise code)
 
 <br/>
+
+</div>
 
 ### 🔄 **How to Contribute**
 
@@ -824,15 +1338,21 @@ git push origin feature/AmazingFeature
 Visit GitHub and create PR
 ```
 
+<div align="center">
+
 <br/>
 
 ### 💡 **Ways to Contribute**
+
+<br/>
 
 <table>
 <tr>
 <td width="33%" align="center">
 
 **🐛 Bug Reports**
+
+<br/>
 
 Found a bug?  
 Open an issue with:
@@ -846,6 +1366,8 @@ Open an issue with:
 
 **✨ Feature Requests**
 
+<br/>
+
 Have an idea?  
 We'd love to hear:
 - Use case description
@@ -857,6 +1379,8 @@ We'd love to hear:
 <td width="33%" align="center">
 
 **📚 Documentation**
+
+<br/>
 
 Improve docs:
 - Fix typos
@@ -872,7 +1396,9 @@ Improve docs:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+</div>
+
+<br/>
 
 ## 🙏 Acknowledgments
 
@@ -888,7 +1414,11 @@ Improve docs:
 
 <img src="https://img.icons8.com/color/96/000000/microsoft.png" width="60"/>
 
+<br/>
+
 **Microsoft**
+
+<br/>
 
 Imagine Cup platform  
 Azure infrastructure  
@@ -899,7 +1429,11 @@ Innovation support
 
 <img src="https://img.icons8.com/color/96/000000/react-native.png" width="60"/>
 
+<br/>
+
 **React Team**
+
+<br/>
 
 Amazing framework  
 Developer experience  
@@ -910,7 +1444,11 @@ Open-source spirit
 
 <img src="https://img.icons8.com/color/96/000000/cloud.png" width="60"/>
 
+<br/>
+
 **Azure**
+
+<br/>
 
 Cloud services  
 AI capabilities  
@@ -921,7 +1459,11 @@ Scalable infrastructure
 
 <img src="https://img.icons8.com/color/96/000000/crowd.png" width="60"/>
 
+<br/>
+
 **Community**
+
+<br/>
 
 Beta testers  
 Feedback providers  
@@ -931,13 +1473,13 @@ Early believers
 </tr>
 </table>
 
-</div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+</div>
+
+<br/>
 
 ## 📄 License
 
@@ -953,21 +1495,21 @@ This project is licensed under the **MIT License**
 
 **Free to use • Modify • Distribute • Commercialize**
 
-See the [LICENSE](LICENSE) file for complete details
+<br/>
 
-</div>
+See the [LICENSE](LICENSE) file for complete details
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-<div align="center">
-
-### ⭐ **Star This Repository!**
+</div>
 
 <br/>
+
+## ⭐ Star This Repository!
+
+<div align="center">
 
 <img src="https://img.shields.io/github/stars/24pwai0032-gif/linguacoach?style=social" alt="GitHub stars"/>
 
@@ -975,7 +1517,7 @@ See the [LICENSE](LICENSE) file for complete details
 
 **If you believe in democratizing language education worldwide**
 
-<br/>
+<br/><br/>
 
 ### 🚀 **Share the Revolution**
 
@@ -987,7 +1529,7 @@ See the [LICENSE](LICENSE) file for complete details
 
 <br/><br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
 
 <br/>
 
@@ -1001,13 +1543,6 @@ See the [LICENSE](LICENSE) file for complete details
 
 <br/><br/>
 
----
-
-<br/>
-
-<!-- Final Section -->
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
 
 <br/><br/>
@@ -1018,10 +1553,14 @@ See the [LICENSE](LICENSE) file for complete details
 
 **Founded & Built by**  
 **Syed Hassan Tayyab**
-
-*AI Engineer | EdTech Innovator | Microsoft Imagine Cup 2024*
+**Hamid Khan**
 
 <br/>
+
+*AI Engineer | EdTech Innovator | Microsoft Imagine Cup 2026*
+*AI Solution Engineer | Innovator | Microsoft Imagine Cup 2026*
+
+<br/><br/>
 
 <table>
 <tr>
@@ -1038,7 +1577,7 @@ in every corner of the globe."**
 
 <br/>
 
-— **Syed Hassan Tayyab**, Founder
+— **Syed Hassan Tayyab & Hmaid Khan**, Founders
 
 <br/><br/>
 
@@ -1072,21 +1611,18 @@ Every dream deserves the tools to succeed.
 
 <br/><br/>
 
----
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
 
 <br/>
 
 ### 🎓 **LinguaCoach**
+
 **Where Language Coaching Meets Science**
 
 <br/>
 
-**Built with ❤️ by Syed Hassan Tayyab**  
-**For learners worldwide | Microsoft Imagine Cup 2024**
+**Built with ❤️ by Syed Hassan Tayyab & Hamid Khan**  
+**For learners worldwide | Microsoft Imagine Cup 2026**
 
 <br/>
 
@@ -1096,406 +1632,15 @@ Every dream deserves the tools to succeed.
 
 <br/><br/>
 
-**© 2024 LinguaCoach. All rights reserved.**  
+**© 2026 LinguaCoach. All rights reserved.**  
 **MIT License | Open Source | Built for Impact**
 
 <br/>
 
-[⬆️ Back to Top](#linguacoach)
+[⬆️ Back to Top](#)
 
 <br/><br/>
-
----
 
 *"The future of education is personal, intelligent, and accessible to all."*
 
----
-
-</div>🏫 **Teachers**
-#### English Coaches
-
-<br/>
-
-📈 **Scale:**  
-Track 25+ students
-
-🎯 **Features:**  
-Class analytics & reports
-
-💰 **Pricing:**
-- $500/mo: Small
-- $1,000/mo: Medium
-- $2,000/mo: Large
-
-</td>
-<td width="25%">
-
-### 🏫 **Institutes**
-#### Test Prep Centers
-
-<br/>
-
-🚀 **Growth:**  
-5 → 50+ locations
-
-⚡ **Impact:**  
-60% cost reduction
-
-💰 **Pricing:**
-- $5,000/mo: Starter
-- $20,000/mo: Scale
-- $50,000/mo: Enterprise
-
-</td>
-<td width="25%">
-
-### 🎓 **Universities**
-#### Higher Education
-
-<br/>
-
-🌍 **Impact:**  
-ESL placement scores
-
-📉 **Savings:**  
-Remediation costs
-
-💰 **Pricing:**
-- $25,000/mo: Small
-- $50,000/mo: Medium
-- $100,000/mo+: Large
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-### 💰 Total Addressable Market
-
-<img src="https://img.shields.io/badge/Global_Language_Learning-$60_Billion-FFB800?style=for-the-badge&logo=chart-line&logoColor=white&labelColor=1e1e1e" />
-
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🗺️ Roadmap
-
-<div align="center">
-
-### **📅 From MVP to Global Domination**
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### Q4 2024 ✅
-**MVP SHIPPED**
-
-<br/>
-
-<img src="https://img.icons8.com/color/96/000000/rocket.png" width="60"/>
-
-<br/><br/>
-
-✅ Writing analyzer  
-✅ Speaking analyzer  
-✅ Delivery tracking  
-✅ Learning Center  
-✅ Analytics dashboard  
-✅ B2B design  
-✅ PDF exports  
-
-</td>
-<td width="25%" align="center">
-
-### Q1 2025 🚧
-**Backend Power**
-
-<br/>
-
-<img src="https://img.icons8.com/color/96/000000/server.png" width="60"/>
-
-<br/><br/>
-
-🔄 Azure deployment  
-🔄 Institution mgmt  
-🔄 Teacher dashboards  
-🔄 Bulk import  
-🔄 OAuth2 + JWT  
-🔄 GDPR/FERPA  
-🔄 Real-time sync  
-
-</td>
-<td width="25%" align="center">
-
-### Q2 2025 🎯
-**AI Superpowers**
-
-<br/>
-
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
-
-<br/><br/>
-
-🎯 Azure OpenAI  
-🎯 Speech recognition  
-🎯 Accent detection  
-🎯 Real-time feedback  
-🎯 LMS integration  
-🎯 Mobile app (Beta)  
-🎯 API marketplace  
-
-</td>
-<td width="25%" align="center">
-
-### Q3 2025 🌍
-**Global Scale**
-
-<br/>
-
-<img src="https://img.icons8.com/color/96/000000/globe.png" width="60"/>
-
-<br/><br/>
-
-🌍 5+ languages  
-🌍 White-label  
-🌍 iOS/Android  
-🌍 Spanish, Mandarin  
-🌍 Certifications  
-🌍 Enterprise SSO  
-🌍 International HQ  
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### **⚡ Built with Cutting-Edge Technology**
-
-<br/>
-
-| Layer | Technologies |
-|:-----:|:------------|
-| **Frontend** | ![React](https://img.shields.io/badge/-React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Storage** | ![LocalStorage](https://img.shields.io/badge/-LocalStorage-FF9900?style=flat-square&logo=html5&logoColor=white) → ![Azure Cosmos DB](https://img.shields.io/badge/-Cosmos_DB-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) |
-| **AI/ML** | ![Custom](https://img.shields.io/badge/-Heuristic_Engines-FF6B6B?style=flat-square&logo=brain&logoColor=white) → ![Azure OpenAI](https://img.shields.io/badge/-Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
-| **Cloud** | ![Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| **Analytics** | ![PDF](https://img.shields.io/badge/-PDF_Export-FF0000?style=flat-square&logo=adobe-acrobat-reader&logoColor=white) ![CSV](https://img.shields.io/badge/-CSV_Export-00C853?style=flat-square&logo=microsoft-excel&logoColor=white) |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎤 Elevator Pitch
-
-<div align="center">
-
-### **💬 The 90-Second Revolution**
-
-<br/>
-
-<table>
-<tr>
-<td>
-
-<br/>
-
-> **"Language coaching apps fail because they reset context every session. LinguaCoach is different—we maintain learner memory.**
->
-> <br/>
->
-> Here's the insight: When a student repeats a grammar mistake or filler word, an AI coach should recognize the pattern and drill it. But generic apps don't remember.
->
-> <br/>
->
-> **We track grammar issues, speaking habits, and delivery feedback across all attempts.** Every data point feeds a learner memory system that prescribes exactly what to drill next.
->
-> <br/>
->
-> **Result?**
-> - 🚀 Students improve 30% faster
-> - 💰 Schools save 60% on tutoring
-> - 👨‍🏫 Teachers finally have diagnostic tools
->
-> <br/>
->
-> We're launching in **5 languages by Q2 2025**.
->
-> <br/>
->
-> **Pricing:**
-> - B2C: $9.99/month
-> - B2B: $5K-50K/month minimum
->
-> <br/>
->
-> **We're LinguaCoach—where language coaching meets science."**
-
-<br/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📚 Documentation
-
-<div align="center">
-
-### **📖 Complete Knowledge Base**
-
-<br/>
-
-| Document | Description | Link |
-|----------|-------------|:----:|
-| **🎨 FEATURES.md** | Complete feature walkthrough with screenshots | [Read →](./FEATURES.md) |
-| **⚡ QUICKSTART.md** | Step-by-step user guide for learners | [Read →](./QUICKSTART.md) |
-| **🏢 ENTERPRISE.md** | B2B product strategy, pricing, pitch deck | [Read →](./ENTERPRISE.md) |
-| **🔌 API.md** | Full API specification for integrations | [Read →](./API.md) |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🔐 Data & Privacy
-
-<div align="center">
-
-### **🛡️ Your Data. Your Control.**
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-**💾 Storage**
-
-LocalStorage (MVP)  
-→  
-Azure Cosmos DB  
-(Production)
-
-</td>
-<td width="25%" align="center">
-
-**🔒 Security**
-
-TLS 1.3  
-AES-256  
-End-to-end  
-encryption
-
-</td>
-<td width="25%" align="center">
-
-**✅ Compliance**
-
-GDPR  
-FERPA  
-COPPA  
-SOC 2 Type II
-
-</td>
-<td width="25%" align="center">
-
-**📤 Ownership**
-
-Your data  
-Your rights  
-Export anytime  
-Delete anytime
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏅 Microsoft Imagine Cup 2026
-
-<div align="center">
-
-<img src="https://img.icons8.com/color/96/000000/microsoft.png" width="80"/>
-
-### **Category: AI for Good**
-
-<br/>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**🎯 Innovation**
-
-Persistent learner memory  
-as AI coaching foundation
-
-</td>
-<td width="33%" align="center">
-
-**📊 Impact**
-
-30% faster improvement  
-60% lower costs
-
-</td>
-<td width="33%" align="center">
-
-**🚀 Scale**
-
-B2C → B2B2C  
-network effect
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 📈 Competition Metrics
-
-| Metric | Value |
-|--------|-------|
-| **🌍 Target Market** | $60B global language learning |
-| **👥 Addressable Users** | 1.5B English learners worldwide |
-| **🎯 Early Adopters** | 3M IELTS test-takers annually |
-| **🏢 Enterprise Pipeline** | 50+ schools in beta waitlist |
-| **💰 Revenue Model** | Freemium + B2B licensing |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 👨‍💻 Meet the Creator
