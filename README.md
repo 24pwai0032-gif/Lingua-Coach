@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00A4EF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=The+World's+First+AI-Powered+Language+Coach;With+Persistent+Learner+Memory+%F0%9F%A7%A0;" />
 </p>
 
-<!-- Badges with Animation -->
+<!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft-Imagine_Cup_2026-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1e1e1e" alt="Imagine Cup"/>
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1e1e1e" alt="React"/>
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge&labelColor=1e1e1e" alt="License"/>
 </p>
 
-<!-- Animated Stats -->
+<!-- Stats -->
 <p align="center">
   <img src="https://img.shields.io/badge/🚀_Improvement-30%25_Faster-00D9FF?style=for-the-badge&labelColor=1e1e1e" alt="Improvement"/>
   <img src="https://img.shields.io/badge/💰_Savings-60%25_Lower_Cost-FFB800?style=for-the-badge&labelColor=1e1e1e" alt="Savings"/>
@@ -30,7 +30,7 @@
   <a href="#-live-demo"><kbd>🎬 Demo</kbd></a> •
   <a href="#-quick-start"><kbd>⚡ Start</kbd></a> •
   <a href="#-roadmap"><kbd>🗺️ Roadmap</kbd></a> •
-  <a href="#-meet-the-creator"><kbd>👨‍💻 Creator</kbd></a>
+  <a href="#-meet-the-creators"><kbd>👨‍💻 Creators</kbd></a>
 </p>
 
 <br/>
@@ -92,8 +92,7 @@
 
 ### 💬 What Users Say
 
-> *"It feels like a personal tutor, not a chatbot."*  
-> **— Beta User**
+> *"It feels like a personal tutor, not a chatbot."* — **Beta User**
 
 <br/>
 
@@ -474,9 +473,9 @@ Download report
 
 ### **Get Running in 60 Seconds** ⏱️
 
-<br/>
-
 </div>
+
+<br/>
 
 ### 🚀 Installation
 
@@ -502,9 +501,9 @@ npm run dev
 
 <img src="https://img.shields.io/badge/⚡_Ready_in-60_Seconds-00E676?style=for-the-badge&labelColor=1e1e1e" />
 
-<br/>
-
 </div>
+
+<br/>
 
 ### 📦 Production Build
 
@@ -529,9 +528,9 @@ npm run preview
 
 ### **🎨 Current Stack (MVP)**
 
-<br/>
-
 </div>
+
+<br/>
 
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
@@ -557,9 +556,9 @@ npm run preview
 
 ### **🚀 Future Architecture (Q1 2025)**
 
-<br/>
-
 </div>
+
+<br/>
 
 ```
                     ┏━━━━━━━━━━━━━━━━┓
@@ -1063,7 +1062,7 @@ network effect
 
 <br/>
 
-# 👨‍💻 Meet the Creators
+## 👨‍💻 Meet the Creators
 
 <div align="center">
 
@@ -1073,17 +1072,13 @@ network effect
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+the+Future+of+Education;AI-Powered+Language+Learning+Revolution;Microsoft+Imagine+Cup+2026+Innovators" alt="Typing SVG" />
 
-</div>
-
 <br/>
-
-<div align="center">
 
 ## 🌟 The Visionaries Behind the Innovation
 
-</div>
-
 <br/>
+
+</div>
 
 <table>
 <tr>
@@ -1234,182 +1229,9 @@ We are passionate **AI engineers** dedicated to transforming the educational lan
 <img src="https://img.shields.io/badge/🤖-AI%20Powered%20Learning-4169E1?style=for-the-badge&labelColor=f093fb&logoColor=white" />
 <img src="https://img.shields.io/badge/🚀-Innovation%20Driven-FF6347?style=for-the-badge&labelColor=f5576c&logoColor=white" />
 
-</div>
-
 <br/>
 
----
-
-<div align="center">
-
-## 🛠️ Our Tech Stack
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 📈 Combined Impact
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=24pwai0032-gif&custom_title=Hassan's%20Contribution%20Graph&bg_color=0D1117&color=667eea&line=f093fb&point=f5576c&area=true&hide_border=true" width="90%">
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamidKhan1001&custom_title=Hamid's%20Contribution%20Graph&bg_color=0D1117&color=764ba2&line=f5576c&point=f093fb&area=true&hide_border=true" width="90%">
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🌟 Together We Achieve More
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=F093FB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Collaboration+%2B+Innovation+%3D+Impact;Two+Minds%2C+One+Vision;Shaping+the+Future+of+Learning" alt="Team Spirit" />
-
-<br/><br/>
-
-### 🤝 Let's Connect & Collaborate!
-
-We're always open to collaboration, feedback, and connecting with fellow innovators!  
-Feel free to reach out to either of us for projects, ideas, or just a chat about EdTech and AI! 🚀
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-
-</div>
----
-
-<div align="center">
-
-## 🏆 Our Mission
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A4EF&center=true&vCenter=true&width=700&lines=Revolutionizing+Language+Learning+with+AI;Making+Education+Accessible+to+Everyone;Competing+in+Microsoft+Imagine+Cup+2026" alt="Mission" />
-
-<br/>
-
-### 💡 What We're Building
-
-We are passionate AI engineers dedicated to transforming the educational landscape through innovative AI-powered solutions. Our focus is on creating revolutionary language learning experiences that make education accessible, engaging, and effective for learners worldwide.
-
-<br/>
-
-<img src="https://img.shields.io/badge/🏆-Microsoft%20Imagine%20Cup%202026-gold?style=for-the-badge&labelColor=667eea" />
-<img src="https://img.shields.io/badge/🌍-Global%20Impact-success?style=for-the-badge&labelColor=764ba2" />
-<img src="https://img.shields.io/badge/🤖-AI%20Powered-blue?style=for-the-badge&labelColor=667eea" />
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🛠️ Our Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### Syed Hassan Tayyab
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=667eea&title_color=fff&icon_color=fff&text_color=fff" />
-
-</td>
-<td width="50%" align="center">
-
-### Hamid Khan
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=764ba2&title_color=fff&icon_color=fff&text_color=fff" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect!
-
-We're always open to collaboration, feedback, and connecting with fellow innovators!
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-
-</div>
-
-<br/>
-
-### **🚀 Building AI solutions that democratize education worldwide**
-
-<br/>
-
-<p align="center">
-  <a href="https://linkedin.com/in/syedhassantayyab/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_&_Collaborate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/24pwai0032-gif/">
-    <img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
-  </a>
-  <a href="mailto:Hassanayaxy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
-  </a>
-</p>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-### 💼 **Our Combined Expertise**
+### 💼 **Combined Expertise**
 
 <br/>
 
@@ -1530,17 +1352,6 @@ We're always open to collaboration, feedback, and connecting with fellow innovat
 
 <br/>
 
-### 📊 **Team GitHub Stats**
-
-<br/>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=24pwai0032-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A4EF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=24pwai0032-gif&theme=tokyonight&hide_border=true&background=0D1117&stroke=00A4EF&ring=00D9FF&fire=FFB800&currStreakLabel=FFFFFF" />
-</p>
-
-<br/>
-
 ### 🛠️ **Technology Arsenal**
 
 <br/>
@@ -1601,187 +1412,6 @@ We're always open to collaboration, feedback, and connecting with fellow innovat
 </tr>
 </table>
 
-<br/>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
-
-<br/>
-
-**Natural Language Processing**
-
-<br/>
-
-`Language Models`  
-`Text Analysis`  
-`Speech Recognition`  
-`Sentiment Analysis`
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
-
-<br/>
-
-**EdTech Innovation**
-
-<br/>
-
-`AI Coaching Systems`  
-`Personalization Engines`  
-`Learning Analytics`  
-`Adaptive Learning`
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
-
-<br/>
-
-**Full-Stack Development**
-
-<br/>
-
-`React Ecosystem`  
-`Azure Cloud`  
-`AI Integration`  
-`API Design`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🏆 **Featured Projects**
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-#### 🎓 LinguaCoach
-
-**AI Language Coaching Platform**
-
-<br/>
-
-![Tech](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tech](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
-![Tech](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-
-<br/>
-
-🏅 Microsoft Imagine Cup 2026  
-⚡ 30% faster improvement  
-💰 60% cost reduction  
-
-<br/>
-
-[![View](https://img.shields.io/badge/View_Project-00A4EF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24pwai0032-gif/linguacoach)
-
-</td>
-<td width="50%" align="center">
-
-#### 🍎 AgriVision
-
-**AI Fruit Classification System**
-
-<br/>
-
-![Tech](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Tech](https://img.shields.io/badge/MobileNetV2-00D9FF?style=flat-square&logo=google&logoColor=white)
-![Tech](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-<br/>
-
-🎯 84% accuracy across 10 fruits  
-🚀 Transfer learning with fine-tuning  
-🌾 Agricultural AI innovation  
-
-<br/>
-
-[![View](https://img.shields.io/badge/View_Project-success?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24pwai0032-gif/AgriVision)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 📊 **GitHub Stats**
-
-<br/>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=24pwai0032-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A4EF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=24pwai0032-gif&theme=tokyonight&hide_border=true&background=0D1117&stroke=00A4EF&ring=00D9FF&fire=FFB800&currStreakLabel=FFFFFF" />
-</p>
-
-<br/>
-
-### 🛠️ **Technology Arsenal**
-
-<br/>
-
-**Languages & Frameworks:**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-</p>
-
-<br/>
-
-**Cloud & Tools:**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
-<br/>
-
-### 🌟 **Philosophy**
-
-<br/>
-
-<table>
-<tr>
-<td align="center">
-
-<br/>
-
-*"Passionate about leveraging AI to democratize education and make world-class coaching accessible to everyone, everywhere."*
-
-<br/>
-
-**🎯 Mission:** Build AI systems that empower learners globally  
-**💡 Vision:** Education without borders, coaching without limits  
-**🚀 Impact:** Touching millions of lives through technology
-
-<br/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 </div>
 
 <br/>
@@ -1798,9 +1428,9 @@ We're always open to collaboration, feedback, and connecting with fellow innovat
 <img src="https://img.shields.io/badge/PRs-Open-00D9FF?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/Issues-Tracked-FFB800?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 
-<br/>
-
 </div>
+
+<br/>
 
 ### 🎯 **Contribution Guidelines**
 
@@ -1811,9 +1441,9 @@ We're always open to collaboration, feedback, and connecting with fellow innovat
 - ✅ **Goal:** Showcase learner memory system
 - ✅ **Scope:** MVP-only features (no half-baked enterprise code)
 
-<br/>
-
 </div>
+
+<br/>
 
 ### 🔄 **How to Contribute**
 
@@ -1894,10 +1524,6 @@ Improve docs:
 </tr>
 </table>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 </div>
 
 <br/>
@@ -1975,10 +1601,6 @@ Early believers
 </tr>
 </table>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 </div>
 
 <br/>
@@ -2000,10 +1622,6 @@ This project is licensed under the **MIT License**
 <br/>
 
 See the [LICENSE](LICENSE) file for complete details
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -2031,15 +1649,11 @@ See the [LICENSE](LICENSE) file for complete details
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
-
-<br/>
-
 ### 💬 **Questions? Ideas? Collaboration?**
 
 <br/>
 
-[![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hassanayaxy@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hassanayaxy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedhassantayyab/)
 [![GitHub](https://img.shields.io/badge/🐙_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24pwai0032-gif/)
 
@@ -2048,73 +1662,6 @@ See the [LICENSE](LICENSE) file for complete details
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
 
 <br/><br/>
-
-### 🎓 **LinguaCoach Founding Team**
-
-<br/>
-
-**Co-Founded by:**
-
-**Syed Hassan Tayyab** & **Hamid Khan**
-
-<br/>
-
-*AI Engineers | EdTech Innovators | Microsoft Imagine Cup 2026*
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200"/>
-
-<br/><br/>
-
-**"Every great movement starts with a single step.  
-LinguaCoach is that step towards democratizing language education.  
-Join us in making world-class coaching accessible to every learner,  
-in every corner of the globe."**
-
-<br/>
-
-— **Syed Hassan Tayyab & Hamid Khan**, Co-Founders
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/💡_From_Idea_to_Impact-FFB800?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🌍_Building_for_1.5B_Learners-00D9FF?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🚀_Microsoft_Imagine_Cup_2026-00A4EF?style=for-the-badge&labelColor=000000" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
-
-<br/><br/>
-
-### 🌟 **The Vision Continues**
-
-<br/>
-
-From two passionate engineers' dream to a global EdTech revolution.  
-**LinguaCoach** is more than software—it's a movement.
-
-<br/>
-
-**Our Promise:**  
-Every student deserves a coach who remembers.  
-Every learner deserves a system that adapts.  
-Every dream deserves the tools to succeed.
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
-
-<br/>
 
 ### 🎓 **LinguaCoach**
 
@@ -2143,5 +1690,9 @@ Every dream deserves the tools to succeed.
 <br/><br/>
 
 *"The future of education is personal, intelligent, and accessible to all."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
 
 </div>
