@@ -1065,13 +1065,281 @@ network effect
 
 ## 👨‍💻 Meet the Creator
 
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meet the Creators</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=150&section=header&text=Syed%20Hassan%20Tayyab&fontSize=50&fontColor=fff&animation=fadeIn" />
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
 
-<br/><br/>
+        .container {
+            max-width: 1200px;
+            width: 100%;
+        }
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00A4EF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=AI+Engineer+%7C+EdTech+Innovator;Building+the+Future+of+Education;Language+Learning+Revolutionary;Microsoft+Imagine+Cup+2026" alt="Typing SVG" />
+        .header {
+            text-align: center;
+            margin-bottom: 60px;
+            animation: fadeInDown 1s ease-out;
+        }
+
+        .header h1 {
+            font-size: 3.5rem;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+            margin-bottom: 20px;
+            background: linear-gradient(45deg, #fff, #e0e0e0);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .subtitle {
+            font-size: 1.5rem;
+            color: rgba(255,255,255,0.9);
+            margin-bottom: 30px;
+            animation: typing 3s steps(40) 1s both;
+            overflow: hidden;
+            white-space: nowrap;
+            border-right: 3px solid white;
+            display: inline-block;
+        }
+
+        @keyframes typing {
+            from { width: 0; }
+            to { width: 100%; }
+        }
+
+        .creators-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+            gap: 40px;
+            margin-top: 40px;
+        }
+
+        .creator-card {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 40px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+            animation: fadeInUp 1s ease-out;
+        }
+
+        .creator-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 12px 48px rgba(0, 0, 0, 0.2);
+            background: rgba(255, 255, 255, 0.15);
+        }
+
+        .creator-header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .avatar {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 20px;
+            font-size: 4rem;
+            color: white;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+        }
+
+        .creator-name {
+            font-size: 2rem;
+            color: white;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+
+        .role-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        .tag {
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            animation: slideIn 0.5s ease-out;
+            animation-fill-mode: both;
+        }
+
+        .tag:nth-child(1) { animation-delay: 0.1s; }
+        .tag:nth-child(2) { animation-delay: 0.2s; }
+        .tag:nth-child(3) { animation-delay: 0.3s; }
+        .tag:nth-child(4) { animation-delay: 0.4s; }
+
+        .highlight-text {
+            text-align: center;
+            color: white;
+            font-size: 1.2rem;
+            margin-top: 20px;
+            padding: 15px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            border-left: 4px solid #00A4EF;
+        }
+
+        .badge {
+            display: inline-block;
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            color: white;
+            padding: 10px 20px;
+            border-radius: 25px;
+            font-weight: bold;
+            margin-top: 20px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            animation: bounce 2s infinite;
+        }
+
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateX(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 60px;
+            color: white;
+            font-size: 1.1rem;
+            animation: fadeInUp 1.5s ease-out;
+        }
+
+        @media (max-width: 768px) {
+            .creators-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .header h1 {
+                font-size: 2.5rem;
+            }
+            
+            .subtitle {
+                font-size: 1.2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>👨‍💻 Meet the Creators</h1>
+            <div class="subtitle">Building the Future of Education</div>
+        </div>
+
+        <div class="creators-grid">
+            <div class="creator-card">
+                <div class="creator-header">
+                    <div class="avatar">👨‍💻</div>
+                    <h2 class="creator-name">Syed Hassan Tayyab</h2>
+                </div>
+                <div class="role-tags">
+                    <span class="tag">AI Engineer</span>
+                    <span class="tag">EdTech Innovator</span>
+                    <span class="tag">Language Learning Revolutionary</span>
+                    <span class="tag">Microsoft Imagine Cup 2026</span>
+                </div>
+                <div class="highlight-text">
+                    Pioneering AI-powered solutions to transform the educational landscape
+                </div>
+            </div>
+
+            <div class="creator-card">
+                <div class="creator-header">
+                    <div class="avatar">🚀</div>
+                    <h2 class="creator-name">Hamid Khan</h2>
+                </div>
+                <div class="role-tags">
+                    <span class="tag">AI Engineer</span>
+                    <span class="tag">EdTech Innovator</span>
+                    <span class="tag">Language Learning Revolutionary</span>
+                    <span class="tag">Microsoft Imagine Cup 2026</span>
+                </div>
+                <div class="highlight-text">
+                    Driving innovation in education through cutting-edge AI technology
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <div class="badge">🏆 Microsoft Imagine Cup 2026 Participants</div>
+            <p style="margin-top: 30px; font-size: 1.3rem;">
+                Together, revolutionizing how the world learns languages
+            </p>
+        </div>
+    </div>
+</body>
+</html>
 
 <br/>
 
